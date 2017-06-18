@@ -1,0 +1,7 @@
+To run
+
+$ node name_of_file.js
+
+To inspect
+
+$ node --inspect name_of_file.js
